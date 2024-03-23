@@ -1,21 +1,12 @@
-# MultipleChoiceQuiz
-a multiple choice Android quiz app, which stores it's questions in an SQLite database.
+# QuizzoApp
+A multiple choice based Android quiz app, which stores it's questions in SQLite database.
 
 `(SQLite database)android best practice.`
-
-
-
-
-### Watch training
-The training link for this app is in Youtube
-
-[SQLite Multiple Choice Quiz - Android Studio Tutorial](https://www.youtube.com/playlist?list=PLrnPJCHvNZuDCyg4Usq2gHMzz6_CiyQO7)
 
 ### Important topics
 - SQLite Database
 - SharedPreferences
 - StartActivityForResult
-- ...
 
 ### Program features
 - Show HighScorce in MainActivity and QuizActivity
@@ -24,8 +15,7 @@ The training link for this app is in Youtube
 - StepCounter
 - Timer(Show Answer After the timer is completed)
 - Change Question Text Color (True False)
-- ...
 
 
-![MainActivity](https://github.com/omidMirrajei/MultipleChoiceQuiz/blob/master/cs_1.png)
+![Screenshot_20220309_003700](https://github.com/saadii007/Crime-reporting-System/assets/126228618/76c44240-226d-4095-b2eb-b1d898ae91b6)
 ![QuizActivity](https://github.com/omidMirrajei/MultipleChoiceQuiz/blob/master/cs_2.png)
