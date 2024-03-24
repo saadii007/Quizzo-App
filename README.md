@@ -16,5 +16,8 @@ This project was developed as a part of SE Mini Project in 2022. 🚀
 - Change Question Text Color (True False) ☑️
 
 ### Screenshots 📱
-![Screenshot_20220309_003700](https://github.com/saadii007/Crime-reporting-System/assets/126228618/76c44240-226d-4095-b2eb-b1d898ae91b6)
-![QuizActivity](https://github.com/omidMirrajei/MultipleChoiceQuiz/blob/master/cs_2.png)
+
+<div align="center">
+<img src= https://github.com/saadii007/Crime-reporting-System/assets/126228618/76c44240-226d-4095-b2eb-b1d898ae91b6>
+<img src= https://github.com/omidMirrajei/MultipleChoiceQuiz/blob/master/cs_2.png>
+</div>
