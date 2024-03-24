@@ -18,6 +18,6 @@ This project was developed as a part of SE Mini Project in 2022. 🚀
 ### Screenshots 📱
 
 <div align="center">
-<img src= https://github.com/saadii007/Crime-reporting-System/assets/126228618/76c44240-226d-4095-b2eb-b1d898ae91b6>
-<img src= https://github.com/omidMirrajei/MultipleChoiceQuiz/blob/master/cs_2.png>
+<img src= https://github.com/saadii007/Crime-reporting-System/assets/126228618/76c44240-226d-4095-b2eb-b1d898ae91b6 width=300px/>
+<img src= https://github.com/omidMirrajei/MultipleChoiceQuiz/blob/master/cs_2.png width=300px/>
 </div>
