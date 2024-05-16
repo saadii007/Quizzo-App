@@ -1,6 +1,5 @@
 # QuizzoApp 📝
-This project was developed as a part of SE Mini Project in 2022. 🚀
-<br> It's a multiple choice based Android quiz app built in Android Studio, which stores it's questions in SQLite database.
+This project is a multiple choice based Android quiz app built in Android Studio, which stores it's questions in SQLite database.
 
 ### Important topics
 - SQLite Database
