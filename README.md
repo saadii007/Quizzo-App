@@ -1,11 +1,6 @@
 # QuizzoApp 📝
 This project is a multiple choice based Android quiz app built in Android Studio, which stores it's questions in SQLite database.
 
-### Important topics
-- SQLite Database
-- SharedPreferences
-- StartActivityForResult
-
 ### Program features
 - Show HighScorce in MainActivity and QuizActivity ☑️
 - Select Question Category ☑️
